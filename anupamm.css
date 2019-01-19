@@ -1,0 +1,58 @@
+/* stylesheet by https://anupammondal.in */
+.navbar {
+    margin-bottom: 0px;
+}
+i.fa-bars {
+  color: #2196F3;
+}
+.txt-fff {
+  color: #fff;
+}
+.mid-blk {
+  width: fit-content;
+  margin: 0 auto;
+  display: block;
+}
+.item {
+  background-color: #2196F3;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.item h2 {
+  margin: 35px;
+}
+.item h4 {
+  width: 75%;
+  margin: 25px auto;
+}
+.itemone {
+  background: #6441A5;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #2a0845, #6441A5);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #2a0845, #6441A5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.itemtwo {
+  background: #e52d27;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #b31217, #e52d27);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #b31217, #e52d27); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.itemthree {
+  background: #005C97;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #363795, #005C97);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #363795, #005C97); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.btn {
+  text-transform: uppercase;
+  color: #000;
+  border: #000 solid 2px;
+  border-radius: 0;
+  margin: 15px auto;
+  padding: 10px 50px;
+}
+.btn-fff {
+  color: #fff;
+  border: #fff solid 2px;
+}
+section {
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
